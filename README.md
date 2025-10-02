@@ -1,0 +1,1 @@
+# Estudando-AWS-Fundamentos-de-IA-Generativa-com-Bedrock
