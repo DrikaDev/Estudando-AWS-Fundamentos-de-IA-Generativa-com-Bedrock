@@ -2,10 +2,10 @@
 
 ## 🎯 Objetivo
 
-Este respositório tem como objetivo registrar minha jornada no **Bootcamp Nexa – Fundamentos de IA Generativa com Bedrock** cuja data limite de encerramento é dia 13/11/2025.  
+Este respositório tem como objetivo registrar minha jornada no **Bootcamp Nexa – Fundamentos de IA Generativa com Bedrock** cuja data limite de encerramento é dia **13/11/2025**.  
+
 Esse bootcamp foi estruturado para fornecer os conhecimentos necessários sobre IA com foco em fundamentos.  
-Durante a jornada aprendermos como aplicar inteligência artificial de forma **prática e acessível**, mesmo sem experiência prévia em programação.  
-É um conteúdo de **10 horas** no qual teremos cursos, desafios, mentorias ao vivo e um **projeto aplicado** para elevar o portfólio.  
+Durante a jornada aprenderemos como aplicar inteligência artificial de forma **prática e acessível**, mesmo sem experiência prévia em programação.  
 
 ---
 
@@ -32,5 +32,3 @@ Durante o bootcamp vamos desenvolver um **projeto aplicado** criando experiênci
 Os 10 primeiros usuários Free certificados e ranqueados no Bootcamp, ao final, ganharão 1 mês de **DIO PRO**, e os 5 melhores colocados no ranking final receberão vouchers para realizar a certificação **AWS Certified AI Practitioner**.
 
 ---
-
-✨ Esse bootcamp é a oportunidade ideal para você começar sua jornada com **IA Generativa e AWS** de forma prática, estruturada e colaborativa.  
