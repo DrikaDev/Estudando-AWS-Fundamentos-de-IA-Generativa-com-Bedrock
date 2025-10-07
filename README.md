@@ -17,7 +17,7 @@ Durante a jornada aprenderemos como aplicar inteligência artificial de forma **
 4. [Os modelos de algoritmos de IA](https://github.com/DrikaDev/Estudando-AWS-Fundamentos-de-IA-Generativa-com-Bedrock/blob/main/conteudos/4.%20Os%20modelos%20de%20algoritmos%20de%20IA.md)  
 5. [Visão computacional](https://github.com/DrikaDev/Estudando-AWS-Fundamentos-de-IA-Generativa-com-Bedrock/blob/main/conteudos/5.%20Vis%C3%A3o%20computacional.md)  
 6. [Processamento de linguagem natural](https://github.com/DrikaDev/Estudando-AWS-Fundamentos-de-IA-Generativa-com-Bedrock/blob/main/conteudos/6.%20Processamento%20de%20linguagem%20natural.md)
-7. [Robótica e Inteligência Artificial](https://github.com/DrikaDev/Estudando-AWS-Fundamentos-de-IA-Generativa-com-Bedrock/blob/main/conteudos/6.%20Processamento%20de%20linguagem%20natural.md)
+7. [Robótica e Inteligência Artificial](https://github.com/DrikaDev/Estudando-AWS-Fundamentos-de-IA-Generativa-com-Bedrock/blob/main/conteudos/7.%20Rob%C3%B3tica.md)
 8. [Aplicações práticas da IA](https://github.com/DrikaDev/Estudando-AWS-Fundamentos-de-IA-Generativa-com-Bedrock/blob/main/conteudos/8.%20Aplica%C3%A7%C3%B5es%20pr%C3%A1ticas%20da%20IA.md)  
 9. [Desafio Natty or Not](https://github.com/DrikaDev/Estudando-AWS-Fundamentos-de-IA-Generativa-com-Bedrock/blob/main/conteudos/9.%20Desafio%20Natty%20or%20not.md)  
 10. Preparação para a certificação AWS AI Practitioner (em construção)  
