@@ -11,13 +11,16 @@ Durante a jornada aprenderemos como aplicar inteligência artificial de forma **
 
 ## 📚 Conteúdo Programático
 
-1. Introdução à IA Generativa  
-2. Fundamentos de AWS para IA  
-3. Amazon Bedrock: conceitos e prática  
-4. PartyRock e AgentCore: criando experiências interativas  
-5. Amazon Nova: explorando modelos avançados  
-6. Projeto prático aplicado  
-7. Preparação para a certificação AWS AI Practitioner  
+1. [Introdução à Inteligência Artificial](1.%20Introdu%C3%A7%C3%A3o%20%C3%A0%20Intelig%C3%AAncia%20Artificial.md)  
+2. [Um pouco da história da IA](2.%20Um%20pouco%20da%20hist%C3%B3ria%20da%20IA.md)  
+3. [IA no seu dia a dia](3.%20IA%20no%20seu%20dia%20a%20dia.md)  
+4. [Os modelos de algoritmos de IA](4.%20Os%20modelos%20de%20algoritmos%20de%20IA.md)  
+5. [Visão computacional](5.%20Vis%C3%A3o%20computacional.md)  
+6. [Processamento de linguagem natural](6.%20Processamento%20de%20linguagem%20natural.md)  
+7. [Robótica](7.%20Rob%C3%B3tica.md)  
+8. [Aplicações práticas da IA](8.%20Aplica%C3%A7%C3%B5es%20pr%C3%A1ticas%20da%20IA.md)  
+9. [Desafio Natty or Not](9.%20Desafio%20Natty%20or%20not.md)  
+10. Preparação para a certificação AWS AI Practitioner (em construção)  
 
 ---
 
@@ -29,6 +32,7 @@ Durante o bootcamp vamos desenvolver um **projeto aplicado** criando experiênci
 
 ## 🎓 Premiação
 
-Os 10 primeiros usuários Free certificados e ranqueados no Bootcamp, ao final, ganharão 1 mês de **DIO PRO**, e os 5 melhores colocados no ranking final receberão vouchers para realizar a certificação **AWS Certified AI Practitioner**.
+- Os 10 primeiros usuários Free certificados e ranqueados ganharão 1 mês de **DIO PRO**.  
+- Os 5 melhores colocados no ranking final receberão vouchers para a certificação **AWS Certified AI Practitioner**.
 
 ---
