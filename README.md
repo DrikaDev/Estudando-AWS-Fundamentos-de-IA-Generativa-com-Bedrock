@@ -26,7 +26,9 @@ Durante a jornada aprenderemos como aplicar inteligência artificial de forma **
 
 ## 📌 Projeto Prático
 
-Durante o bootcamp vamos desenvolver um **projeto aplicado** criando experiências com **PartyRock e AgentCore**, explorando o poder da IA Generativa em cenários reais.  
+Durante o bootcamp vamos desenvolvemos um **projeto** criando experiências com **PartyRock e AgentCore**, explorando o poder da IA Generativa em cenários reais.  
+
+Clique [aqui](https://github.com/DrikaDev/Desafio-DIO-Lab-Natty-or-not) para ver o projeto. 
 
 ---
 
@@ -34,5 +36,9 @@ Durante o bootcamp vamos desenvolver um **projeto aplicado** criando experiênci
 
 - Os 10 primeiros usuários Free certificados e ranqueados ganharão 1 mês de **DIO PRO**.  
 - Os 5 melhores colocados no ranking final receberão vouchers para a certificação **AWS Certified AI Practitioner**.
+
+<img width="1343" height="93" alt="image" src="https://github.com/user-attachments/assets/556fafc6-90ed-484d-aa3e-64ff7781e484" />
+
+<img width="1253" height="503" alt="image" src="https://github.com/user-attachments/assets/d947ce6d-acb9-4313-adfd-29559c5a7935" />
 
 ---
